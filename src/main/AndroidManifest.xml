@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.app.samplesdk" >
+
+    <application>
+        <activity android:name=".SamplesActivity" />
+    </application>
+</manifest>
